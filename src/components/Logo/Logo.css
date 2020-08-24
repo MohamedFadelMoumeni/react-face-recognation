@@ -1,0 +1,13 @@
+.logo {
+    margin: 4em;
+    margin-top: 0;
+}
+.Tilt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(89deg, #FF5EDF 0%, #04C8DE 100%);
+    box-shadow: 0px 0px 2px;
+    
+    
+}
